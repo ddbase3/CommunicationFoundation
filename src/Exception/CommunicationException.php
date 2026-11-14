@@ -15,7 +15,7 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Exception;
+namespace Base3\CommunicationFoundation\Exception;
 
 use RuntimeException;
 use Throwable;

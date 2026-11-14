@@ -15,9 +15,9 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Model;
+namespace Base3\CommunicationFoundation\Model;
 
-use CommunicationFoundation\Api\ICommunicationPostMedia;
+use Base3\CommunicationFoundation\Api\ICommunicationPostMedia;
 
 /**
  * Default immutable implementation of a media item attached to a

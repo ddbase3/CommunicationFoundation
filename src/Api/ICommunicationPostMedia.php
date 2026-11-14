@@ -15,7 +15,7 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Api;
+namespace Base3\CommunicationFoundation\Api;
 
 /**
  * Describes a single media item attached to a communication post.

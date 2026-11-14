@@ -15,12 +15,12 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Service;
+namespace Base3\CommunicationFoundation\Service;
 
-use CommunicationFoundation\Api\ICommunicationPublishRequest;
-use CommunicationFoundation\Api\ICommunicationPublishResult;
-use CommunicationFoundation\Api\ICommunicationPublisher;
-use CommunicationFoundation\Model\CommunicationPublishResult;
+use Base3\CommunicationFoundation\Api\ICommunicationPublishRequest;
+use Base3\CommunicationFoundation\Api\ICommunicationPublishResult;
+use Base3\CommunicationFoundation\Api\ICommunicationPublisher;
+use Base3\CommunicationFoundation\Model\CommunicationPublishResult;
 
 /**
  * Publisher implementation that intentionally performs no publish action.

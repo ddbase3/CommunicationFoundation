@@ -15,10 +15,10 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Model;
+namespace Base3\CommunicationFoundation\Model;
 
-use CommunicationFoundation\Api\ICommunicationPublishResult;
-use CommunicationFoundation\Exception\CommunicationValidationException;
+use Base3\CommunicationFoundation\Api\ICommunicationPublishResult;
+use Base3\CommunicationFoundation\Exception\CommunicationValidationException;
 use DateTimeInterface;
 
 /**

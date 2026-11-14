@@ -1,0 +1,11 @@
+{
+	"manifestVersion": 1,
+	"name": "CommunicationFoundation",
+	"namespace": "Base3\\CommunicationFoundation",
+	"version": "0.0.0",
+	"description": "CommunicationFoundation defines platform-neutral outbound contracts. It models posts, media and communication delivery requests. Provider plugins implement these reusable interfaces.",
+	"license": "GPL-3.0",
+	"dependencies": {
+		"CoreFoundation": ">=4.10.0"
+	}
+}

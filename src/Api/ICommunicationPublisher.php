@@ -15,7 +15,7 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Api;
+namespace Base3\CommunicationFoundation\Api;
 
 /**
  * Publishes communication posts to a concrete target provider.

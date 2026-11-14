@@ -15,7 +15,7 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Api;
+namespace Base3\CommunicationFoundation\Api;
 
 /**
  * Describes the platform-neutral content of a communication post.

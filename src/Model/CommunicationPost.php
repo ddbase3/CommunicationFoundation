@@ -15,11 +15,11 @@
  * https://github.com/ddbase3/CommunicationFoundation
  **********************************************************************/
 
-namespace CommunicationFoundation\Model;
+namespace Base3\CommunicationFoundation\Model;
 
-use CommunicationFoundation\Api\ICommunicationPost;
-use CommunicationFoundation\Api\ICommunicationPostMedia;
-use CommunicationFoundation\Exception\CommunicationValidationException;
+use Base3\CommunicationFoundation\Api\ICommunicationPost;
+use Base3\CommunicationFoundation\Api\ICommunicationPostMedia;
+use Base3\CommunicationFoundation\Exception\CommunicationValidationException;
 
 /**
  * Default immutable implementation of a platform-neutral communication post.
